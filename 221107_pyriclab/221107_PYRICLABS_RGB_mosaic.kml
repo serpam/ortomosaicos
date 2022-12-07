@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>221107_PYRICLABS_RGB Pix4D</name>
+<description></description>
+<Style><ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<NetworkLink>
+<name>15/16146/20049.kml</name>
+<Region>
+<LatLonAltBox>
+<north>37.317751851636878</north>
+<south>37.309014074275915</south>
+<east>-2.603759765624988</east>
+<west>-2.614746093750012</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>15/16146/20049.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<NetworkLink>
+<name>15/16147/20049.kml</name>
+<Region>
+<LatLonAltBox>
+<north>37.317751851636878</north>
+<south>37.309014074275915</south>
+<east>-2.592773437499996</east>
+<west>-2.603759765624988</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>15/16147/20049.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+
+</Document>
+</kml>
